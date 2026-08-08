@@ -162,12 +162,7 @@ non-accumulating homography breaks `test_projection_advances_across_frames`,
 - **Planarity assumption.** A homography is only valid for a planar surface, so
   inclines, crests, and camber introduce error the model cannot represent.
 
-## Author
 
-Sana Hassan — implementation.
-
-Built as a computer vision course project with Hammad Javed, who contributed to
-the project outside the codebase.
 
 ## Acknowledgements
 
