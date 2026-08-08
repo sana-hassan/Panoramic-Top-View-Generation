@@ -7,7 +7,7 @@ Each frame is segmented to isolate the road surface, warped into the top-view pl
 by homography, and composited into a growing panorama. Detected vehicles are
 projected into the same plane as position markers.
 
-![Panorama overlaid on satellite imagery](assets/overlay.jpg)
+
 
 ---
 
