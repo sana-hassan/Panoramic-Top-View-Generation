@@ -1,0 +1,26 @@
+# Data — too large / not ours to redistribute
+*.mp4
+*.avi
+out_frames/
+top/
+demo_result*/
+midpoints*/
+road_panorama/
+*.npz
+
+# Model weights
+weights/
+*.pth
+
+# Notebook / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/

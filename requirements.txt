@@ -1,0 +1,20 @@
+# Core
+numpy
+opencv-python
+Pillow
+matplotlib
+
+# HybridNets dependencies
+torch
+torchvision
+timm==0.6.13
+pretrainedmodels
+efficientnet_pytorch
+
+# Utilities
+requests
+imread_from_url
+onnxruntime
+
+# Testing
+pytest
